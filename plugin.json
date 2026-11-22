@@ -1,0 +1,36 @@
+{
+  "id": "neodex.themearcade",
+  "name": "Thème Borne d’arcade",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "icon": "icon.png",
+  "neobase": ">=4.1.0",
+  "neodex": ">=3.3.9",
+  "type": "theme",
+  "compatibility": [
+    "windows",
+    "linux",
+    "android"
+  ],
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [],
+  "description": "Une salle d’arcade : rouge, jaune et bleu francs, gros contours noirs, chiffres à points. Un thème de couleurs et de cadres pour NeoDex.",
+  "category": "Thèmes",
+  "themes": [
+    {
+      "id": "arcade",
+      "name": "Borne d’arcade",
+      "style": "arcade",
+      "hue": 230,
+      "sat": 45,
+      "accent": "#ff3b30",
+      "light": "#ffd60a",
+      "third": "#2f8cff",
+      "lift": 1.2,
+      "about": "Une salle d’arcade : rouge, jaune et bleu francs, gros contours noirs, chiffres à points."
+    }
+  ]
+}
