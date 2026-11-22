@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.themearcade",
+  "repo": "NDesumeur/neodex-plugin-theme-arcade",
+  "version": "1.0.0",
+  "sha256": "dd8ab1cf422c3fe6e4a69905e4d698d460d7e79feb6dae6c109e29c9448e9669",
+  "approvedAt": "2026-11-22T19:05:25.598Z",
+  "neobase": ">=4.1.0",
+  "signature": "zZrKJQOaud/A2niKZz4yj+Ath6exzTDlfA7NtIJ0P1tsrRqY6xQm+fmzUISFF0+IswIoZ1lLK1LZusCiq9sBBg=="
+}
